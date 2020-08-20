@@ -6,3 +6,6 @@ package-lock.json
 
 # Temp file
 _temp/
+
+# DS store
+.DS_Store
